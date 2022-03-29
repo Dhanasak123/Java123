@@ -8,6 +8,10 @@ public class Sample {
 		
 		System.out.println(123456);
 		
+		System.out.println("python");
+		
+		System.out.println("Selenium");
+		
 	}
 
 }
